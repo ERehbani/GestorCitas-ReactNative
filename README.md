@@ -1,5 +1,11 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Gestor de citas para veterinaria en React Native
+
+<img align="center" src="./src/images/143shots_so.jpg"/>
+<img align="center" src="./src/images/444shots_so.jpg"/>
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
