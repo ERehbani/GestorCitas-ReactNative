@@ -2,6 +2,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Gestor de citas para veterinaria en React Native
 
+Con las funcionalidades de crear una nueva cita con un formulario en modo Modal y Date Picker para fijar una fecha de alta, la visualizacion de nuevas citas, la vista, la edicion y la eliminacion de las mismas
+
 <img align="center" src="./src/images/143shots_so.jpg"/>
 <img align="center" src="./src/images/444shots_so.jpg"/>
 
